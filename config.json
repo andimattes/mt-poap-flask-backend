@@ -1,0 +1,13 @@
+{
+    "auth": {
+        "api_key": "[YOUR_API_KEY]",
+        "access_token": "[YOUR_ACCESS_TOKEN]",
+        "last_refresh": "0",
+        "client_id": "[YOUR_CLIENT_ID]",
+        "client_secret": "[YOUR_CLIENT_SECRET]",
+        "audience": "[YOUR_AUDIENCE]",
+        "grant_type": "client_credentials"
+    },
+    "event_id": "[YOUR_PAOP_EVENT_ID]",
+    "secret_code": "[YOUR_EVENT_SECRET_CODE]"
+}
